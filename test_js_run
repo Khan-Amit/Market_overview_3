@@ -1,1 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body style="text-align:center; margin-top:50px;">
 
+<h1>JS Test</h1>
+
+<button onclick="alert('WORKING')">Click Me</button>
+
+</body>
+</html>
